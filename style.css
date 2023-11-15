@@ -1,0 +1,114 @@
+#heros{
+    position: relative;
+
+}
+#srh{
+    bottom: 38px;
+    left: 1100px;
+    position: absolute;
+}
+.navbar{
+    background: #FFDB58;
+}
+.nav-item{
+    font-size: 20px;
+    left: 50px;
+    position: relative;
+   padding-left: 80px;
+}
+.cont{
+    width: 100%;
+
+}
+.body{
+    background: #719898;
+}
+.nav-item{
+    margin-left: 60px;
+}
+.buboy{
+    width: 100px;
+}
+.cdp{
+    bottom: 370px;
+    left: 750px;
+    position: absolute;
+    font-size: 38px;
+    font-style: italic;
+    color: #FFFFFF;
+}
+.bold{
+    bottom: 230px;
+    left:730px;
+    position: absolute;
+    font-size: 20px;
+    font-style: italic;
+    color: #FFFFFF;
+
+}
+.webs{
+    bottom: 376px;
+    position: absolute;
+    left: 650px;
+    width: 650px;
+} 
+.pro{
+    top: 113px;
+    width: 772px;
+    position: absolute;
+
+}
+.bars{
+    padding-left: 200px;
+    position: absolute;
+    bottom: 470px;
+    left: 1030px;
+    width: 380px;
+}
+#ctu{
+    top: 558px;
+    left:800px;
+    position: absolute;
+    width: 150px;
+    background-color: #FFDB58;
+    color: #000000;
+
+}
+#lrm{
+    top: 558px;
+    left:1000px;
+    position: absolute;
+    width: 150px;
+    color: blue;
+}
+.g7{
+    left: 2px;
+    position: absolute;
+    width: 1421px;
+    top: 862px;
+}
+.g8{
+    top: 750px;
+    position: absolute;
+    left: 150px;
+    width: 1200px;
+}
+.cp{
+    position: absolute;
+    width: 1000px;
+    bottom: -850px;
+    left: 195px;
+}
+.g9{
+    position: absolute;
+    width: 1000px;
+    top: 1626px;
+    left: 220px;
+} 
+.codes{
+    height: 1750px;
+    position: absolute;
+    width: 1422px;
+    top: 1630px;
+
+}
