@@ -1,6 +1,5 @@
 #heros{
     position: relative;
-
 }
 #srh{
     bottom: 38px;
@@ -22,6 +21,7 @@
 }
 .body{
     background: #719898;
+    margin: auto;
 }
 .nav-item{
     margin-left: 60px;
@@ -108,7 +108,7 @@
 .codes{
     height: 1750px;
     position: absolute;
-    width: 1422px;
+    width: 1410px;
     top: 1630px;
 
 }
